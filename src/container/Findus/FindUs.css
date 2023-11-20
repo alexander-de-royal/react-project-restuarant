@@ -1,0 +1,7 @@
+.app_bg {
+    background-color: var(--color-black);
+    display: flex;
+    flex-direction: row;
+}
+
+
